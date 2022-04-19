@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "PDF_Scraper": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SyncFusionLicenseKey": "\"Insert your own license key\""
+      },
+      "sqlDebugging": true
+    }
+  }
+}
